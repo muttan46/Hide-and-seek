@@ -1,6 +1,6 @@
 # Hide-and-seek
 new repository
 
-##testtesttest
+##testtest
 
 *testmember
